@@ -2,6 +2,6 @@
 using namespace std;
 void main()
 {
-	cout << "Demo Git Extension ! Tien Edited"<<endl;
+	cout << "Demo Git Extension ! Binh Edited"<<endl;
 	system("pause");
 }
